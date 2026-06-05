@@ -4,7 +4,6 @@
 To analyse given data using coeffificient of correlation and regression line
 ![image](https://user-images.githubusercontent.com/104613195/168224136-d6b64e64-7d3d-4775-9337-c8f96fe41f2d.png)
 
-
 # Software required :  
 Python
 # Theory:
@@ -53,5 +52,6 @@ plt.show()
 ```
 # Output 
 <img width="927" height="659" alt="image" src="https://github.com/user-attachments/assets/53853639-289e-406f-8256-3f3823bc3528" />
+
 # Result
 Thus, the program to to analyze given data using co-efficient of correlation and regression line has been done successfully.
